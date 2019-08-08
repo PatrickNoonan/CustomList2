@@ -1,2 +1,2 @@
 # CustomList2
-Updated version of custom list
+Updated version of a custom c# list class
